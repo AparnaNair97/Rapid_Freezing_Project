@@ -1,0 +1,10 @@
+Temty = 50.00
+ Requesting temperatures...DONE
+Temperature is: -127.00
+ure = 27.00
+Humidity = 69.00
+Temperature = 27.00
+Humidity = 50.00
+ Requesting temperatures...DONE
+Temperature is: -127.00
+
